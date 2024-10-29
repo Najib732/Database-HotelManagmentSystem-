@@ -53,7 +53,6 @@
     </li>
 </ul>
 
-<p>This system layout provides a robust foundation for managing hotel operations efficiently, maintaining data integrity, and offering a seamless experience for both staff and guests.</p>
 
 </body>
 </html>
